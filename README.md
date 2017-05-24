@@ -21,3 +21,5 @@ The hardware I have is a AdaFruit Feather
 And a 8 led NEO Pixel stick
 and will slowley introduce a music maker for .mp3 sound 
 
+What is github
+its been handy for sucking of my data inbetween two diffrent PCs but I don't see what Im playing for, its nothing a flash stick can't do for me
